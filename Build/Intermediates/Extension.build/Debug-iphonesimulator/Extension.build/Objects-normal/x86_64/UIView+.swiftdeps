@@ -1,0 +1,383 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo6UIView", ""]
+- ["CSo6UIView", "e_removeAllSubviews"]
+- ["CSo6UIView", "e_screenshotImage"]
+provides-dynamic-lookup:
+- "e_screenshotImage"
+- "e_removeAllSubviews"
+depends-top-level:
+- !private "UIGraphicsEndImageContext"
+- "CGFloat"
+- "UIView"
+- "UIImage"
+- !private "BooleanLiteralType"
+- !private "UIGraphicsBeginImageContextWithOptions"
+- !private "UIGraphicsGetImageFromCurrentImageContext"
+depends-member:
+- !private ["Ps9AnyObject", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps9AnyObject", "UIGraphicsEndImageContext"]
+- !private ["Ps9AnyObject", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps9AnyObject", "bounds"]
+- !private ["Ps9AnyObject", "drawViewHierarchyInRect"]
+- ["Ps9AnyObject", "e_removeAllSubviews"]
+- ["Ps9AnyObject", "e_screenshotImage"]
+- !private ["Ps9AnyObject", "frame"]
+- !private ["Ps9AnyObject", "removeFromSuperview"]
+- !private ["Ps9AnyObject", "subviews"]
+- !private ["Sa", "Generator"]
+- !private ["Sa", "Index"]
+- !private ["Sa", "SubSequence"]
+- !private ["Sa", "_Element"]
+- !private ["Ps23ArrayLiteralConvertible", "Generator"]
+- !private ["Ps23ArrayLiteralConvertible", "Index"]
+- !private ["Ps23ArrayLiteralConvertible", "SubSequence"]
+- !private ["Ps23ArrayLiteralConvertible", "_Element"]
+- !private ["Vs10ArraySlice", "Generator"]
+- !private ["Vs10ArraySlice", "Index"]
+- !private ["Ps22BidirectionalIndexType", "Distance"]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["Ps21BitwiseOperationsType", "Distance"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC6CGRect", "size"]
+- !private ["Ps11CVarArgType", "Distance"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- !private ["Ps11CVarArgType", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps11CVarArgType", "UIGraphicsEndImageContext"]
+- !private ["Ps11CVarArgType", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps11CVarArgType", "bounds"]
+- !private ["Ps11CVarArgType", "drawViewHierarchyInRect"]
+- ["Ps11CVarArgType", "e_removeAllSubviews"]
+- ["Ps11CVarArgType", "e_screenshotImage"]
+- !private ["Ps11CVarArgType", "frame"]
+- !private ["Ps11CVarArgType", "removeFromSuperview"]
+- !private ["Ps11CVarArgType", "subviews"]
+- !private ["Ps14CollectionType", "Generator"]
+- !private ["Ps14CollectionType", "Index"]
+- !private ["Ps14CollectionType", "SubSequence"]
+- !private ["Ps14CollectionType", "_Element"]
+- !private ["Ps10Comparable", "Distance"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps28CustomDebugStringConvertible", "Generator"]
+- !private ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsEndImageContext"]
+- !private ["Ps28CustomDebugStringConvertible", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "bounds"]
+- !private ["Ps28CustomDebugStringConvertible", "drawViewHierarchyInRect"]
+- ["Ps28CustomDebugStringConvertible", "e_removeAllSubviews"]
+- ["Ps28CustomDebugStringConvertible", "e_screenshotImage"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- !private ["Ps28CustomDebugStringConvertible", "removeFromSuperview"]
+- !private ["Ps28CustomDebugStringConvertible", "subviews"]
+- !private ["Ps23CustomStringConvertible", "Distance"]
+- !private ["Ps23CustomStringConvertible", "Generator"]
+- !private ["Ps23CustomStringConvertible", "Index"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsEndImageContext"]
+- !private ["Ps23CustomStringConvertible", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "bounds"]
+- !private ["Ps23CustomStringConvertible", "drawViewHierarchyInRect"]
+- ["Ps23CustomStringConvertible", "e_removeAllSubviews"]
+- ["Ps23CustomStringConvertible", "e_screenshotImage"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- !private ["Ps23CustomStringConvertible", "removeFromSuperview"]
+- !private ["Ps23CustomStringConvertible", "subviews"]
+- !private ["Ps9Equatable", "Distance"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps9Equatable", "UIGraphicsEndImageContext"]
+- !private ["Ps9Equatable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps9Equatable", "bounds"]
+- !private ["Ps9Equatable", "drawViewHierarchyInRect"]
+- ["Ps9Equatable", "e_removeAllSubviews"]
+- ["Ps9Equatable", "e_screenshotImage"]
+- !private ["Ps9Equatable", "frame"]
+- !private ["Ps9Equatable", "removeFromSuperview"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "subviews"]
+- !private ["Ps16ForwardIndexType", "Distance"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- !private ["Ps13GeneratorType", "Element"]
+- !private ["Ps8Hashable", "Distance"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps8Hashable", "UIGraphicsEndImageContext"]
+- !private ["Ps8Hashable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps8Hashable", "bounds"]
+- !private ["Ps8Hashable", "drawViewHierarchyInRect"]
+- ["Ps8Hashable", "e_removeAllSubviews"]
+- ["Ps8Hashable", "e_screenshotImage"]
+- !private ["Ps8Hashable", "frame"]
+- !private ["Ps8Hashable", "removeFromSuperview"]
+- !private ["Ps8Hashable", "subviews"]
+- !private ["Ps9Indexable", "Generator"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Vs17IndexingGenerator", "Element"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Ps21IntegerArithmeticType", "Distance"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps25IntegerLiteralConvertible", "Distance"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps11IntegerType", "Distance"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "Distance"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- !private ["Ps21MutableCollectionType", "Generator"]
+- !private ["Ps21MutableCollectionType", "Index"]
+- !private ["Ps21MutableCollectionType", "SubSequence"]
+- !private ["Ps21MutableCollectionType", "_Element"]
+- !private ["Ps16MutableIndexable", "Generator"]
+- !private ["Ps16MutableIndexable", "Index"]
+- !private ["Ps16MutableIndexable", "SubSequence"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableSliceable", "Generator"]
+- !private ["Ps16MutableSliceable", "Index"]
+- !private ["Ps16MutableSliceable", "SubSequence"]
+- !private ["Ps16MutableSliceable", "_Element"]
+- !private ["PSo8NSCoding", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo8NSCoding", "UIGraphicsEndImageContext"]
+- !private ["PSo8NSCoding", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "drawViewHierarchyInRect"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "removeFromSuperview"]
+- !private ["PSo8NSCoding", "subviews"]
+- ["CSo8NSObject", "CGFloat"]
+- !private ["CSo8NSObject", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["CSo8NSObject", "UIGraphicsEndImageContext"]
+- !private ["CSo8NSObject", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["CSo8NSObject", "UIImage"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "drawViewHierarchyInRect"]
+- ["CSo8NSObject", "e_removeAllSubviews"]
+- ["CSo8NSObject", "e_screenshotImage"]
+- !private ["CSo8NSObject", "frame"]
+- !private ["CSo8NSObject", "removeFromSuperview"]
+- !private ["CSo8NSObject", "subviews"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsEndImageContext"]
+- !private ["PSo16NSObjectProtocol", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "drawViewHierarchyInRect"]
+- ["PSo16NSObjectProtocol", "e_removeAllSubviews"]
+- ["PSo16NSObjectProtocol", "e_screenshotImage"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- !private ["PSo16NSObjectProtocol", "removeFromSuperview"]
+- !private ["PSo16NSObjectProtocol", "subviews"]
+- !private ["Ps21RandomAccessIndexType", "Distance"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["Ps30RangeReplaceableCollectionType", "Generator"]
+- !private ["Ps30RangeReplaceableCollectionType", "Index"]
+- !private ["Ps30RangeReplaceableCollectionType", "SubSequence"]
+- !private ["Ps30RangeReplaceableCollectionType", "_Element"]
+- !private ["Ps12SequenceType", "Element"]
+- !private ["Ps12SequenceType", "Generator"]
+- !private ["Ps12SequenceType", "Index"]
+- !private ["Ps12SequenceType", "SubSequence"]
+- !private ["Ps12SequenceType", "_Element"]
+- !private ["Ps17SignedIntegerType", "Distance"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- !private ["Ps16SignedNumberType", "Distance"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- !private ["Ps10Strideable", "Distance"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsEndImageContext"]
+- !private ["PSo29UIAccessibilityIdentification", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "drawViewHierarchyInRect"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- !private ["PSo29UIAccessibilityIdentification", "removeFromSuperview"]
+- !private ["PSo29UIAccessibilityIdentification", "subviews"]
+- !private ["PSo12UIAppearance", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo12UIAppearance", "UIGraphicsEndImageContext"]
+- !private ["PSo12UIAppearance", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "drawViewHierarchyInRect"]
+- !private ["PSo12UIAppearance", "frame"]
+- !private ["PSo12UIAppearance", "removeFromSuperview"]
+- !private ["PSo12UIAppearance", "subviews"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsEndImageContext"]
+- !private ["PSo21UIAppearanceContainer", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "drawViewHierarchyInRect"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- !private ["PSo21UIAppearanceContainer", "removeFromSuperview"]
+- !private ["PSo21UIAppearanceContainer", "subviews"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsEndImageContext"]
+- !private ["PSo17UICoordinateSpace", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "drawViewHierarchyInRect"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- !private ["PSo17UICoordinateSpace", "removeFromSuperview"]
+- !private ["PSo17UICoordinateSpace", "subviews"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsEndImageContext"]
+- !private ["PSo13UIDynamicItem", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "drawViewHierarchyInRect"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- !private ["PSo13UIDynamicItem", "removeFromSuperview"]
+- !private ["PSo13UIDynamicItem", "subviews"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsEndImageContext"]
+- !private ["PSo18UIFocusEnvironment", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "drawViewHierarchyInRect"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- !private ["PSo18UIFocusEnvironment", "removeFromSuperview"]
+- !private ["PSo18UIFocusEnvironment", "subviews"]
+- ["CSo11UIResponder", "CGFloat"]
+- !private ["CSo11UIResponder", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["CSo11UIResponder", "UIGraphicsEndImageContext"]
+- !private ["CSo11UIResponder", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["CSo11UIResponder", "UIImage"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "drawViewHierarchyInRect"]
+- ["CSo11UIResponder", "e_removeAllSubviews"]
+- ["CSo11UIResponder", "e_screenshotImage"]
+- !private ["CSo11UIResponder", "frame"]
+- !private ["CSo11UIResponder", "removeFromSuperview"]
+- !private ["CSo11UIResponder", "subviews"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsEndImageContext"]
+- !private ["PSo18UITraitEnvironment", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "drawViewHierarchyInRect"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- !private ["PSo18UITraitEnvironment", "removeFromSuperview"]
+- !private ["PSo18UITraitEnvironment", "subviews"]
+- ["CSo6UIView", "CGFloat"]
+- !private ["CSo6UIView", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["CSo6UIView", "UIGraphicsEndImageContext"]
+- !private ["CSo6UIView", "UIGraphicsGetImageFromCurrentImageContext"]
+- ["CSo6UIView", "UIImage"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "drawViewHierarchyInRect"]
+- ["CSo6UIView", "e_removeAllSubviews"]
+- ["CSo6UIView", "e_screenshotImage"]
+- !private ["CSo6UIView", "frame"]
+- !private ["CSo6UIView", "removeFromSuperview"]
+- !private ["CSo6UIView", "subviews"]
+- !private ["Ps10_ArrayType", "Generator"]
+- !private ["Ps10_ArrayType", "Index"]
+- !private ["Ps10_ArrayType", "SubSequence"]
+- !private ["Ps10_ArrayType", "_Element"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps24_DestructorSafeContainer", "Generator"]
+- !private ["Ps24_DestructorSafeContainer", "Index"]
+- !private ["Ps24_DestructorSafeContainer", "SubSequence"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps14_Incrementable", "Distance"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps22_IntegerArithmeticType", "Distance"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps12_IntegerType", "Distance"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Distance"]
+- !private ["Ps21_ObjectiveCBridgeable", "Generator"]
+- !private ["Ps21_ObjectiveCBridgeable", "Index"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps22_RandomAccessAmbiguity", "Distance"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "Distance"]
+- !private ["Ps12_Reflectable", "Generator"]
+- !private ["Ps12_Reflectable", "Index"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "SubSequence"]
+- !private ["Ps12_Reflectable", "UIGraphicsBeginImageContextWithOptions"]
+- !private ["Ps12_Reflectable", "UIGraphicsEndImageContext"]
+- !private ["Ps12_Reflectable", "UIGraphicsGetImageFromCurrentImageContext"]
+- !private ["Ps12_Reflectable", "_Element"]
+- !private ["Ps12_Reflectable", "bounds"]
+- !private ["Ps12_Reflectable", "drawViewHierarchyInRect"]
+- !private ["Ps12_Reflectable", "frame"]
+- !private ["Ps12_Reflectable", "removeFromSuperview"]
+- !private ["Ps12_Reflectable", "size"]
+- !private ["Ps12_Reflectable", "subviews"]
+- !private ["Ps18_SignedIntegerType", "Distance"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Vs10ArraySlice"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC6CGRect"
+- "Ps11CVarArgType"
+- !private "Ps14CollectionType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps16ForwardIndexType"
+- !private "Ps13GeneratorType"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Vs17IndexingGenerator"
+- !private "Si"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- !private "Ps21MutableCollectionType"
+- !private "Ps16MutableIndexable"
+- !private "Ps16MutableSliceable"
+- !private "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps21RandomAccessIndexType"
+- !private "Ps30RangeReplaceableCollectionType"
+- !private "Ps12SequenceType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Ps10Strideable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- !private "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Ps10_ArrayType"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode7.3.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "a54aab3e3281a67e1b138cd10c72c941"
